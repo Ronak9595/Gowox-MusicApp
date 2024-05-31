@@ -39,6 +39,8 @@ dependencies {
     implementation(libs.constraintlayout)
     implementation(libs.dexter)
     implementation(libs.audiovisualizer)
+    implementation(libs.support.annotations)
+    implementation(libs.annotation)
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)

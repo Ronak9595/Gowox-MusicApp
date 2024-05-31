@@ -1,5 +1,10 @@
 <resources>
-    <string name="app_name">Music App</string>
-    <string name="todo">TODO</string>
+    <string name="app_name">MusicApp</string>
     <string name="song_name">Song Name</string>
+    <string name="play_button_description">Play</string>
+    <string name="next_button_description">Next</string>
+    <string name="previous_button_description">Previous</string>
+    <string name="fast_forward_button_description">Fast Forward</string>
+    <string name="fast_rewind_button_description">Fast Rewind</string>
+
 </resources>
